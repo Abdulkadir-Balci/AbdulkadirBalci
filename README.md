@@ -26,11 +26,4 @@
   <img src="path/to/your/image3.png" alt="Tool 3 with URL" height="50"/>
   <!-- Add more images as needed -->
 </p>
-## Languages and Tools:
 
-<p align="center">
-  <img src="https://i.imgur.com/yourimage1.png" alt="Tool 1 with URL" height="50"/>
-  <img src="https://i.imgur.com/yourimage2.png" alt="Tool 2 with URL" height="50"/>
-  <img src="https://i.imgur.com/yourimage3.png" alt="Tool 3 with URL" height="50"/>
-  <!-- Add more images as needed -->
-</p>
