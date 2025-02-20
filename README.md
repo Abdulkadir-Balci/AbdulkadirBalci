@@ -18,12 +18,4 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" height="50"/>
 </p>
 
-## Languages and Tools:
-
-<p align="center">
-  <img src="path/to/your/image1.png" alt="Tool 1 with URL" height="50"/>
-  <img src="path/to/your/image2.png" alt="Tool 2 with URL" height="50"/>
-  <img src="path/to/your/image3.png" alt="Tool 3 with URL" height="50"/>
-  <!-- Add more images as needed -->
-</p>
 
